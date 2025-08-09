@@ -1,1 +1,1 @@
-# C-language-mini-projects
+# C-programming-mini-projects
